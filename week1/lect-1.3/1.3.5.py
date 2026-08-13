@@ -3,6 +3,3 @@
 # ```
 # print("hello",12,24.5)
 # ```
-
-# Output:
-# hello 12 24.5
