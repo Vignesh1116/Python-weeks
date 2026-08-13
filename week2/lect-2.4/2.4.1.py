@@ -6,3 +6,6 @@
 #   # This will print the value of 'b'
 # print(a)  # This will raise an error since 'a' has been deleted
 # print(b)
+a=200
+del a
+print(a)
