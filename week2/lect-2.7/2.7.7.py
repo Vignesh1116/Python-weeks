@@ -25,6 +25,6 @@ k=20
 result=""
 
 for i in text:
-    result+=alpha[(alpha.index(i)+k)%26]
+    result+=alpha[(alpha.index(i)+k)%26] 
 
 print(result)    

@@ -19,7 +19,7 @@ OUTPUT: 25
 '''
 
 alpha="abcdefghijklmnopqrstuvwxyz"
-text=input("Enter a letter:")
+text=input("Enter a letter:") 
 
-a=alpha.index(text)+1
+a=alpha.index(text)+1 
 print(a)

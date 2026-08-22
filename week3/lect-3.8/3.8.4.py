@@ -1,0 +1,5 @@
+# print all the letters of 'chennai' in a separate line using for loop
+
+a="chennai"
+for i in a:
+    print(i)

@@ -5,7 +5,7 @@
 # HINT : subtract current year from YOB
 
 YOB=int(input())
-age=2025-YOB
+age=2026-YOB
 print(age)
 if age>18:
     print("eligible to vote")
