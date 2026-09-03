@@ -32,3 +32,7 @@
 # result=a[b:] + a[:b]
 # print(result)
 
+
+
+for i in range(10,1,-2):
+    print(i)

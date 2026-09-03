@@ -3,4 +3,4 @@
 
 
 user="vicky"
-print(user[1:-1])
+print(user[3:-1])
